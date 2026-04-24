@@ -62,6 +62,7 @@ public class Wallet {
   private LocalDate transactionDate;
   private LocalDateTime createdAt;
 }
+```
 
 ---
 
@@ -77,3 +78,5 @@ CREATE TABLE wallet (
   transaction_date DATE NOT NULL,
   created_at DATETIME DEFAULT CURRENT_TIMESTAMP
 );
+```
+
