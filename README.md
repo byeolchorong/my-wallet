@@ -63,6 +63,8 @@ public class Wallet {
   private LocalDateTime createdAt;
 }
 
+---
+
 ## DB 구조
 
 ```sql
